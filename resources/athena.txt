@@ -1,0 +1,345 @@
+locusregion,locuscity,Old City Code,Apartment,Homestay,Hostel,Villa,Cottage
+RGGOI,CTGOI,GOI,AC,Caretaker,AC,Swimming Pool,Swimming Pool
+RGGOI,CTGOI,GOI,Caretaker,Kitchen,Wifi,Caretaker,Caretaker
+RGGOI,CTGOI,GOI,Kitchen,AC,Living Room,AC,AC
+RGGOI,CTGOI,GOI,Living Room,Living Room,Kitchen,Kitchen,Kitchen
+RGGOI,CTGOI,GOI,Balcony/Terrace,Wifi,Swimming Pool,Wifi,Wifi
+RGGOI,CTGOI,GOI,Wifi,Balcony/Terrace,Parking,Balcony/Terrace,Balcony/Terrace
+RGGOI,CTGOI,GOI,Lift/Elevator,Parking,Washing Machine,TV,TV
+RGGOI,CTGOI,GOI,Swimming Pool,TV,Café,Washing Machine,Washing Machine
+RGBOM,CTBOM,BOM,Caretaker,Caretaker,AC,Swimming Pool,Swimming Pool
+RGBOM,CTBOM,BOM,Kitchen,Kitchen,Wifi,Caretaker,Caretaker
+RGBOM,CTBOM,BOM,AC,AC,Living Room,AC,AC
+RGBOM,CTBOM,BOM,Wifi,Wifi,Kitchen,Kitchen,Kitchen
+RGBOM,CTBOM,BOM,Lift/Elevator,Living Room,Café,Wifi,Wifi
+RGBOM,CTBOM,BOM,TV,Balcony/Terrace,Parking,Balcony/Terrace,Balcony/Terrace
+RGBOM,CTBOM,BOM,Parking,Parking,Swimming Pool,TV,TV
+RGBOM,CTBOM,BOM,Power Backup,TV,Mineral Water,Washing Machine,Washing Machine
+RGNCR,CTDEL,DEL,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+RGNCR,CTDEL,DEL,Wifi,Wifi,Living Room,Caretaker,Caretaker
+RGNCR,CTDEL,DEL,Caretaker,Kitchen,Kitchen,Wifi,Wifi
+RGNCR,CTDEL,DEL,Living Room,Living Room,Bonfire,Kitchen,Kitchen
+RGNCR,CTDEL,DEL,Lift/Elevator,Balcony/Terrace,Café,Bonfire/Fireplace,Bonfire/Fireplace
+RGNCR,CTDEL,DEL,TV,Parking,Parking,Balcony/Terrace,Balcony/Terrace
+RGNCR,CTDEL,DEL,Parking,TV,Mineral Water,TV,TV
+RGNCR,CTDEL,DEL,Power Backup,Lawn,Power Backup,Washing Machine,Washing Machine
+RGBANG,CTBLR,BLR,Caretaker,Caretaker,AC,Swimming Pool,Swimming Pool
+RGBANG,CTBLR,BLR,Kitchen,Kitchen,Wifi,Caretaker,Caretaker
+RGBANG,CTBLR,BLR,AC,AC,Living Room,AC,AC
+RGBANG,CTBLR,BLR,Wifi,Wifi,Kitchen,Kitchen,Kitchen
+RGBANG,CTBLR,BLR,Lift/Elevator,Living Room,Café,Wifi,Wifi
+RGBANG,CTBLR,BLR,TV,Balcony/Terrace,Parking,Balcony/Terrace,Balcony/Terrace
+RGBANG,CTBLR,BLR,Parking,Parking,Swimming Pool,TV,TV
+RGBANG,CTBLR,BLR,Power Backup,TV,Mineral Water,Washing Machine,Washing Machine
+RGMAA,CTMAA,MAA,Caretaker,Caretaker,AC,Swimming Pool,Swimming Pool
+RGMAA,CTMAA,MAA,Kitchen,Kitchen,Wifi,Caretaker,Caretaker
+RGMAA,CTMAA,MAA,AC,AC,Living Room,AC,AC
+RGMAA,CTMAA,MAA,Wifi,Wifi,Kitchen,Kitchen,Kitchen
+RGMAA,CTMAA,MAA,Lift/Elevator,Living Room,Café,Wifi,Wifi
+RGMAA,CTMAA,MAA,TV,Balcony/Terrace,Parking,Balcony/Terrace,Balcony/Terrace
+RGMAA,CTMAA,MAA,Parking,Parking,Swimming Pool,TV,TV
+RGMAA,CTMAA,MAA,Power Backup,TV,Mineral Water,Washing Machine,Washing Machine
+RGTHEN,CTXOO,XOO,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+RGTHEN,CTXOO,XOO,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+RGTHEN,CTXOO,XOO,Living Room,Kitchen,Living Room,Wifi,Wifi
+RGTHEN,CTXOO,XOO,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+RGTHEN,CTXOO,XOO,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+RGTHEN,CTXOO,XOO,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+RGTHEN,CTXOO,XOO,Parking,TV,Café,TV,TV
+RGTHEN,CTXOO,XOO,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+RGSLV,CTSLV,SLV,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+RGSLV,CTSLV,SLV,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+RGSLV,CTSLV,SLV,Living Room,Kitchen,Living Room,Wifi,Wifi
+RGSLV,CTSLV,SLV,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+RGSLV,CTSLV,SLV,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+RGSLV,CTSLV,SLV,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+RGSLV,CTSLV,SLV,Parking,TV,Café,TV,TV
+RGSLV,CTSLV,SLV,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+111,CTXLK,XLK,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+111,CTXLK,XLK,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+111,CTXLK,XLK,Living Room,Kitchen,Living Room,Wifi,Wifi
+111,CTXLK,XLK,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+111,CTXLK,XLK,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+111,CTXLK,XLK,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+111,CTXLK,XLK,Parking,TV,Café,TV,TV
+111,CTXLK,XLK,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+111,CTHYDERA,HYD,Caretaker,Caretaker,AC,Swimming Pool,Swimming Pool
+111,CTHYDERA,HYD,Kitchen,Kitchen,Wifi,Caretaker,Caretaker
+111,CTHYDERA,HYD,AC,AC,Living Room,AC,AC
+111,CTHYDERA,HYD,Wifi,Wifi,Kitchen,Kitchen,Kitchen
+111,CTHYDERA,HYD,Lift/Elevator,Living Room,Café,Wifi,Wifi
+111,CTHYDERA,HYD,TV,Balcony/Terrace,Parking,Balcony/Terrace,Balcony/Terrace
+111,CTHYDERA,HYD,Parking,Parking,Swimming Pool,TV,TV
+111,CTHYDERA,HYD,Power Backup,TV,Mineral Water,Washing Machine,Washing Machine
+RGCCU,CTCCU,CCU,Caretaker,Caretaker,AC,Swimming Pool,Swimming Pool
+RGCCU,CTCCU,CCU,Kitchen,Kitchen,Wifi,Caretaker,Caretaker
+RGCCU,CTCCU,CCU,AC,AC,Living Room,AC,AC
+RGCCU,CTCCU,CCU,Wifi,Wifi,Kitchen,Kitchen,Kitchen
+RGCCU,CTCCU,CCU,Lift/Elevator,Living Room,Café,Wifi,Wifi
+RGCCU,CTCCU,CCU,TV,Balcony/Terrace,Parking,Balcony/Terrace,Balcony/Terrace
+RGCCU,CTCCU,CCU,Parking,Parking,Swimming Pool,TV,TV
+RGCCU,CTCCU,CCU,Power Backup,TV,Mineral Water,Washing Machine,Washing Machine
+111,CTXMN,XMN,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+111,CTXMN,XMN,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+111,CTXMN,XMN,Living Room,Kitchen,Living Room,Wifi,Wifi
+111,CTXMN,XMN,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+111,CTXMN,XMN,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+111,CTXMN,XMN,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+111,CTXMN,XMN,Parking,TV,Café,TV,TV
+111,CTXMN,XMN,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+RGJAI,CTJAI,JAI,AC,Caretaker,AC,Swimming Pool,Swimming Pool
+RGJAI,CTJAI,JAI,Caretaker,Kitchen,Wifi,Caretaker,Caretaker
+RGJAI,CTJAI,JAI,Kitchen,AC,Living Room,AC,AC
+RGJAI,CTJAI,JAI,Living Room,Living Room,Kitchen,Kitchen,Kitchen
+RGJAI,CTJAI,JAI,Balcony/Terrace,Wifi,Swimming Pool,Wifi,Wifi
+RGJAI,CTJAI,JAI,Wifi,Balcony/Terrace,Parking,Balcony/Terrace,Balcony/Terrace
+RGJAI,CTJAI,JAI,Lift/Elevator,Parking,Washing Machine,TV,TV
+RGJAI,CTJAI,JAI,Swimming Pool,TV,Café,Washing Machine,Washing Machine
+RGXNT,CTXNT,XNT,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+RGXNT,CTXNT,XNT,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+RGXNT,CTXNT,XNT,Living Room,Kitchen,Living Room,Wifi,Wifi
+RGXNT,CTXNT,XNT,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+RGXNT,CTXNT,XNT,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+RGXNT,CTXNT,XNT,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+RGXNT,CTXNT,XNT,Parking,TV,Café,TV,TV
+RGXNT,CTXNT,XNT,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+RGPNQ,CTPNQ,PNQ,Caretaker,Caretaker,AC,Swimming Pool,Swimming Pool
+RGPNQ,CTPNQ,PNQ,Kitchen,Kitchen,Wifi,Caretaker,Caretaker
+RGPNQ,CTPNQ,PNQ,AC,AC,Living Room,AC,AC
+RGPNQ,CTPNQ,PNQ,Wifi,Wifi,Kitchen,Kitchen,Kitchen
+RGPNQ,CTPNQ,PNQ,Lift/Elevator,Living Room,Café,Wifi,Wifi
+RGPNQ,CTPNQ,PNQ,TV,Balcony/Terrace,Parking,Balcony/Terrace,Balcony/Terrace
+RGPNQ,CTPNQ,PNQ,Parking,Parking,Swimming Pool,TV,TV
+RGPNQ,CTPNQ,PNQ,Power Backup,TV,Mineral Water,Washing Machine,Washing Machine
+RGUDR,CTUDR,UDR,AC,Caretaker,AC,Swimming Pool,Swimming Pool
+RGUDR,CTUDR,UDR,Caretaker,Kitchen,Wifi,Caretaker,Caretaker
+RGUDR,CTUDR,UDR,Kitchen,AC,Living Room,AC,AC
+RGUDR,CTUDR,UDR,Living Room,Living Room,Kitchen,Kitchen,Kitchen
+RGUDR,CTUDR,UDR,Balcony/Terrace,Wifi,Swimming Pool,Wifi,Wifi
+RGUDR,CTUDR,UDR,Wifi,Balcony/Terrace,Parking,Balcony/Terrace,Balcony/Terrace
+RGUDR,CTUDR,UDR,Lift/Elevator,Parking,Washing Machine,TV,TV
+RGUDR,CTUDR,UDR,Swimming Pool,TV,Café,Washing Machine,Washing Machine
+111,CTXRI,XRI,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+111,CTXRI,XRI,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+111,CTXRI,XRI,Living Room,Kitchen,Living Room,Wifi,Wifi
+111,CTXRI,XRI,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+111,CTXRI,XRI,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+111,CTXRI,XRI,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+111,CTXRI,XRI,Parking,TV,Café,TV,TV
+111,CTXRI,XRI,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+111,CTXKO,XKO,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+111,CTXKO,XKO,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+111,CTXKO,XKO,Living Room,Kitchen,Living Room,Wifi,Wifi
+111,CTXKO,XKO,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+111,CTXKO,XKO,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+111,CTXKO,XKO,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+111,CTXKO,XKO,Parking,TV,Café,TV,TV
+111,CTXKO,XKO,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+111,CTKUU,KUU,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+111,CTKUU,KUU,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+111,CTKUU,KUU,Living Room,Kitchen,Living Room,Wifi,Wifi
+111,CTKUU,KUU,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+111,CTKUU,KUU,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+111,CTKUU,KUU,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+111,CTKUU,KUU,Parking,TV,Café,TV,TV
+111,CTKUU,KUU,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+111,CTKSL,KSL,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+111,CTKSL,KSL,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+111,CTKSL,KSL,Living Room,Kitchen,Living Room,Wifi,Wifi
+111,CTKSL,KSL,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+111,CTKSL,KSL,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+111,CTKSL,KSL,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+111,CTKSL,KSL,Parking,TV,Café,TV,TV
+111,CTKSL,KSL,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+RGVNS,CTVNS,VNS,AC,Caretaker,AC,Swimming Pool,Swimming Pool
+RGVNS,CTVNS,VNS,Caretaker,Kitchen,Wifi,Caretaker,Caretaker
+RGVNS,CTVNS,VNS,Kitchen,AC,Living Room,AC,AC
+RGVNS,CTVNS,VNS,Living Room,Living Room,Kitchen,Kitchen,Kitchen
+RGVNS,CTVNS,VNS,Balcony/Terrace,Wifi,Swimming Pool,Wifi,Wifi
+RGVNS,CTVNS,VNS,Wifi,Balcony/Terrace,Parking,Balcony/Terrace,Balcony/Terrace
+RGVNS,CTVNS,VNS,Lift/Elevator,Parking,Washing Machine,TV,TV
+RGVNS,CTVNS,VNS,Swimming Pool,TV,Café,Washing Machine,Washing Machine
+111,CTXKS,XKS,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+111,CTXKS,XKS,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+111,CTXKS,XKS,Living Room,Kitchen,Living Room,Wifi,Wifi
+111,CTXKS,XKS,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+111,CTXKS,XKS,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+111,CTXKS,XKS,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+111,CTXKS,XKS,Parking,TV,Café,TV,TV
+111,CTXKS,XKS,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+111,CTXGO,XGO,AC,Caretaker,AC,Swimming Pool,Swimming Pool
+111,CTXGO,XGO,Caretaker,Kitchen,Wifi,Caretaker,Caretaker
+111,CTXGO,XGO,Kitchen,AC,Living Room,AC,AC
+111,CTXGO,XGO,Living Room,Living Room,Kitchen,Kitchen,Kitchen
+111,CTXGO,XGO,Balcony/Terrace,Wifi,Swimming Pool,Wifi,Wifi
+111,CTXGO,XGO,Wifi,Balcony/Terrace,Parking,Balcony/Terrace,Balcony/Terrace
+111,CTXGO,XGO,Lift/Elevator,Parking,Washing Machine,TV,TV
+111,CTXGO,XGO,Swimming Pool,TV,Café,Washing Machine,Washing Machine
+RGXZS,CTXZS,XZS,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+RGXZS,CTXZS,XZS,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+RGXZS,CTXZS,XZS,Living Room,Kitchen,Living Room,Wifi,Wifi
+RGXZS,CTXZS,XZS,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+RGXZS,CTXZS,XZS,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+RGXZS,CTXZS,XZS,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+RGXZS,CTXZS,XZS,Parking,TV,Café,TV,TV
+RGXZS,CTXZS,XZS,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+RGEAST,CTSHL,SHL,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+RGEAST,CTSHL,SHL,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+RGEAST,CTSHL,SHL,Living Room,Kitchen,Living Room,Wifi,Wifi
+RGEAST,CTSHL,SHL,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+RGEAST,CTSHL,SHL,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+RGEAST,CTSHL,SHL,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+RGEAST,CTSHL,SHL,Parking,TV,Café,TV,TV
+RGEAST,CTSHL,SHL,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+111,CTXMH,XMH,AC,Caretaker,AC,Swimming Pool,Swimming Pool
+111,CTXMH,XMH,Caretaker,Kitchen,Wifi,Caretaker,Caretaker
+111,CTXMH,XMH,Kitchen,AC,Living Room,AC,AC
+111,CTXMH,XMH,Living Room,Living Room,Kitchen,Kitchen,Kitchen
+111,CTXMH,XMH,Balcony/Terrace,Wifi,Swimming Pool,Wifi,Wifi
+111,CTXMH,XMH,Wifi,Balcony/Terrace,Parking,Balcony/Terrace,Balcony/Terrace
+111,CTXMH,XMH,Lift/Elevator,Parking,Washing Machine,TV,TV
+111,CTXMH,XMH,Swimming Pool,TV,Café,Washing Machine,Washing Machine
+RGXWA,CTXWA,XWA,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+RGXWA,CTXWA,XWA,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+RGXWA,CTXWA,XWA,Living Room,Kitchen,Living Room,Wifi,Wifi
+RGXWA,CTXWA,XWA,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+RGXWA,CTXWA,XWA,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+RGXWA,CTXWA,XWA,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+RGXWA,CTXWA,XWA,Parking,TV,Café,TV,TV
+RGXWA,CTXWA,XWA,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+RGXPC,CTXPC,XPC,AC,Caretaker,AC,Swimming Pool,Swimming Pool
+RGXPC,CTXPC,XPC,Caretaker,Kitchen,Wifi,Caretaker,Caretaker
+RGXPC,CTXPC,XPC,Kitchen,AC,Living Room,AC,AC
+RGXPC,CTXPC,XPC,Living Room,Living Room,Kitchen,Kitchen,Kitchen
+RGXPC,CTXPC,XPC,Balcony/Terrace,Wifi,Swimming Pool,Wifi,Wifi
+RGXPC,CTXPC,XPC,Wifi,Balcony/Terrace,Parking,Balcony/Terrace,Balcony/Terrace
+RGXPC,CTXPC,XPC,Lift/Elevator,Parking,Washing Machine,TV,TV
+RGXPC,CTXPC,XPC,Swimming Pool,TV,Café,Washing Machine,Washing Machine
+RGXMY,CTXMY,XMY,Caretaker,Caretaker,AC,Swimming Pool,Swimming Pool
+RGXMY,CTXMY,XMY,Kitchen,Kitchen,Wifi,Caretaker,Caretaker
+RGXMY,CTXMY,XMY,AC,AC,Living Room,AC,AC
+RGXMY,CTXMY,XMY,Wifi,Wifi,Kitchen,Kitchen,Kitchen
+RGXMY,CTXMY,XMY,Lift/Elevator,Living Room,Café,Wifi,Wifi
+RGXMY,CTXMY,XMY,TV,Balcony/Terrace,Parking,Balcony/Terrace,Balcony/Terrace
+RGXMY,CTXMY,XMY,Parking,Parking,Swimming Pool,TV,TV
+RGXMY,CTXMY,XMY,Power Backup,TV,Mineral Water,Washing Machine,Washing Machine
+111,CTXCN,XCN,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+111,CTXCN,XCN,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+111,CTXCN,XCN,Living Room,Kitchen,Living Room,Wifi,Wifi
+111,CTXCN,XCN,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+111,CTXCN,XCN,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+111,CTXCN,XCN,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+111,CTXCN,XCN,Parking,TV,Café,TV,TV
+111,CTXCN,XCN,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+RGJDH,CTJDH,JDH,AC,Caretaker,AC,Swimming Pool,Swimming Pool
+RGJDH,CTJDH,JDH,Caretaker,Kitchen,Wifi,Caretaker,Caretaker
+RGJDH,CTJDH,JDH,Kitchen,AC,Living Room,AC,AC
+RGJDH,CTJDH,JDH,Living Room,Living Room,Kitchen,Kitchen,Kitchen
+RGJDH,CTJDH,JDH,Balcony/Terrace,Wifi,Swimming Pool,Wifi,Wifi
+RGJDH,CTJDH,JDH,Wifi,Balcony/Terrace,Parking,Balcony/Terrace,Balcony/Terrace
+RGJDH,CTJDH,JDH,Lift/Elevator,Parking,Washing Machine,TV,TV
+RGJDH,CTJDH,JDH,Swimming Pool,TV,Café,Washing Machine,Washing Machine
+RGCOK,CTCOK,COK,Caretaker,Caretaker,AC,Swimming Pool,Swimming Pool
+RGCOK,CTCOK,COK,Kitchen,Kitchen,Wifi,Caretaker,Caretaker
+RGCOK,CTCOK,COK,AC,AC,Living Room,AC,AC
+RGCOK,CTCOK,COK,Wifi,Wifi,Kitchen,Kitchen,Kitchen
+RGCOK,CTCOK,COK,Lift/Elevator,Living Room,Café,Wifi,Wifi
+RGCOK,CTCOK,COK,TV,Balcony/Terrace,Parking,Balcony/Terrace,Balcony/Terrace
+RGCOK,CTCOK,COK,Parking,Parking,Swimming Pool,TV,TV
+RGCOK,CTCOK,COK,Power Backup,TV,Mineral Water,Washing Machine,Washing Machine
+RGXCR,CTXCR,XCR,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+RGXCR,CTXCR,XCR,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+RGXCR,CTXCR,XCR,Living Room,Kitchen,Living Room,Wifi,Wifi
+RGXCR,CTXCR,XCR,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+RGXCR,CTXCR,XCR,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+RGXCR,CTXCR,XCR,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+RGXCR,CTXCR,XCR,Parking,TV,Café,TV,TV
+RGXCR,CTXCR,XCR,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+RGKANG,CTKANG,DHM,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+RGKANG,CTKANG,DHM,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+RGKANG,CTKANG,DHM,Living Room,Kitchen,Living Room,Wifi,Wifi
+RGKANG,CTKANG,DHM,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+RGKANG,CTKANG,DHM,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+RGKANG,CTKANG,DHM,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+RGKANG,CTKANG,DHM,Parking,TV,Café,TV,TV
+RGKANG,CTKANG,DHM,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+111,CTXGH,XGH,AC,Caretaker,AC,Swimming Pool,Swimming Pool
+111,CTXGH,XGH,Caretaker,Kitchen,Wifi,Caretaker,Caretaker
+111,CTXGH,XGH,Kitchen,AC,Living Room,AC,AC
+111,CTXGH,XGH,Living Room,Living Room,Kitchen,Kitchen,Kitchen
+111,CTXGH,XGH,Balcony/Terrace,Wifi,Swimming Pool,Wifi,Wifi
+111,CTXGH,XGH,Wifi,Balcony/Terrace,Parking,Balcony/Terrace,Balcony/Terrace
+111,CTXGH,XGH,Lift/Elevator,Parking,Washing Machine,TV,TV
+111,CTXGH,XGH,Swimming Pool,TV,Café,Washing Machine,Washing Machine
+RGKAMR,CTGAU,GAU,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+RGKAMR,CTGAU,GAU,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+RGKAMR,CTGAU,GAU,Living Room,Kitchen,Living Room,Wifi,Wifi
+RGKAMR,CTGAU,GAU,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+RGKAMR,CTGAU,GAU,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+RGKAMR,CTGAU,GAU,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+RGKAMR,CTGAU,GAU,Parking,TV,Café,TV,TV
+RGKAMR,CTGAU,GAU,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+111,CTXMS,XMS,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+111,CTXMS,XMS,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+111,CTXMS,XMS,Living Room,Kitchen,Living Room,Wifi,Wifi
+111,CTXMS,XMS,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+111,CTXMS,XMS,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+111,CTXMS,XMS,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+111,CTXMS,XMS,Parking,TV,Café,TV,TV
+111,CTXMS,XMS,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+RGDED,CTDED,DED,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+RGDED,CTDED,DED,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+RGDED,CTDED,DED,Living Room,Kitchen,Living Room,Wifi,Wifi
+RGDED,CTDED,DED,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+RGDED,CTDED,DED,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+RGDED,CTDED,DED,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+RGDED,CTDED,DED,Parking,TV,Café,TV,TV
+RGDED,CTDED,DED,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+RGIXB,CTIXB,IXB,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+RGIXB,CTIXB,IXB,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+RGIXB,CTIXB,IXB,Living Room,Kitchen,Living Room,Wifi,Wifi
+RGIXB,CTIXB,IXB,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+RGIXB,CTIXB,IXB,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+RGIXB,CTIXB,IXB,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+RGIXB,CTIXB,IXB,Parking,TV,Café,TV,TV
+RGIXB,CTIXB,IXB,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+111,CTXVB,XVB,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+111,CTXVB,XVB,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+111,CTXVB,XVB,Living Room,Kitchen,Living Room,Wifi,Wifi
+111,CTXVB,XVB,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+111,CTXVB,XVB,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+111,CTXVB,XVB,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+111,CTXVB,XVB,Parking,TV,Café,TV,TV
+111,CTXVB,XVB,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+RGXPR,CTXPR,XPR,AC,Caretaker,AC,Swimming Pool,Swimming Pool
+RGXPR,CTXPR,XPR,Caretaker,Kitchen,Wifi,Caretaker,Caretaker
+RGXPR,CTXPR,XPR,Kitchen,AC,Living Room,AC,AC
+RGXPR,CTXPR,XPR,Living Room,Living Room,Kitchen,Kitchen,Kitchen
+RGXPR,CTXPR,XPR,Balcony/Terrace,Wifi,Swimming Pool,Wifi,Wifi
+RGXPR,CTXPR,XPR,Wifi,Balcony/Terrace,Parking,Balcony/Terrace,Balcony/Terrace
+RGXPR,CTXPR,XPR,Lift/Elevator,Parking,Washing Machine,TV,TV
+RGXPR,CTXPR,XPR,Swimming Pool,TV,Café,Washing Machine,Washing Machine
+RGEASTS,CTXGA,XGA,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+RGEASTS,CTXGA,XGA,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+RGEASTS,CTXGA,XGA,Living Room,Kitchen,Living Room,Wifi,Wifi
+RGEASTS,CTXGA,XGA,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+RGEASTS,CTXGA,XGA,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+RGEASTS,CTXGA,XGA,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+RGEASTS,CTXGA,XGA,Parking,TV,Café,TV,TV
+RGEASTS,CTXGA,XGA,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+111,CTXNK,XNK,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+111,CTXNK,XNK,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+111,CTXNK,XNK,Living Room,Kitchen,Living Room,Wifi,Wifi
+111,CTXNK,XNK,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+111,CTXNK,XNK,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+111,CTXNK,XNK,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+111,CTXNK,XNK,Parking,TV,Café,TV,TV
+111,CTXNK,XNK,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
+RGXLR,CTXLR,XLR,Kitchen,Caretaker,Wifi,Swimming Pool,Swimming Pool
+RGXLR,CTXLR,XLR,Caretaker,Wifi,Bonfire,Caretaker,Caretaker
+RGXLR,CTXLR,XLR,Living Room,Kitchen,Living Room,Wifi,Wifi
+RGXLR,CTXLR,XLR,Balcony/Terrace,Living Room,Kitchen,Kitchen,Kitchen
+RGXLR,CTXLR,XLR,TV,Balcony/Terrace,Parking,Bonfire/Fireplace,Bonfire/Fireplace
+RGXLR,CTXLR,XLR,Wifi,Parking,Washing Machine,Balcony/Terrace,Balcony/Terrace
+RGXLR,CTXLR,XLR,Parking,TV,Café,TV,TV
+RGXLR,CTXLR,XLR,Lift/Elevator,Lawn,Indoor Games,Washing Machine,Washing Machine
